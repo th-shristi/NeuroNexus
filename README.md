@@ -7,8 +7,6 @@ Welcome to the repository containing a collection of data science projects and P
 
 1. [Project 1: IRIS](#IRIS)
 2. [Project 2: Titanic Survival Prediction](#Titanic_Survival_Prediction)
-3. [Power BI Dashboards](#power-bi-dashboards)
-
 
 ## Project 1: IRIS
 
@@ -22,5 +20,4 @@ Description: This data science project is focused on predicting the survival pro
 
 **[Link to Project 2 Repository](https://github.com/th-shristi/NeuroNexus/tree/main/Titanic%20Survival%20Prediction)**
 
-## Power BI Dashboards
 
